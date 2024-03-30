@@ -11,13 +11,14 @@ dev_addr: localhost:8000
 
 # Navegació dels documents
 nav:
-    - Inicio: index.md
-    - Un Sitio Web de Éxito con WordPress:
-      - Formas de realizar una página web: tema1/apartado1.md
-      - Pero... ¿Qué es WordPress?: tema1/apartado2.md
-      - ¿Por qué WordPress?: tema1/apartado3.md
-      - Un poco de historia: tema1/apartado4.md
-    - Sobre mí: sobre-mi.md
+  - Inicio: index.md
+  - Un Sitio Web de Éxito con WordPress:
+    - Introducción: tema1/intro.md
+    - Formas de realizar una página web: tema1/apartado1.md
+    - Pero... ¿Qué es WordPress?: tema1/apartado2.md
+    - ¿Por qué WordPress?: tema1/apartado3.md
+    - Un poco de historia: tema1/apartado4.md
+  - Sobre mí: sobre-mi.md
 
 # Tema a triar
 theme: 
