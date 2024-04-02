@@ -55,4 +55,4 @@ markdown_extensions:
 # Altres afegits
 plugins:
   - search      # plugin del quadre cerca
-#  - pdf-export  # plugin per exportar a pdf
+  - pdf-export  # plugin per exportar a pdf
