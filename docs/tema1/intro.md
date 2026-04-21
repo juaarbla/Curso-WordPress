@@ -1,4 +1,4 @@
-# Cómo Convertir Tu Sueño en un Sitio Web de Éxito con WordPress
+# Cómo convertir tu sueño en un Sitio Web de exito con WordPress
 
 Todos tenemos un sueño, algo que queremos lograr en la vida. Para algunos, es viajar alrededor del mundo, para otros es tener un negocio propio. Pero, ¿qué pasa cuando ese sueño se relaciona con la tecnología y el mundo digital? ¿Cómo hacemos para convertirlo en una realidad?
 
