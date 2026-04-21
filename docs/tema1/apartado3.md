@@ -1,4 +1,4 @@
-# ¿Por qué WordPress?ç
+# ¿Por qué WordPress?
 
 WordPress destaca como la elección preferida para sistemas de gestión de contenidos gracias a su interfaz amigable, flexibilidad inigualable y la sólida comunidad que respalda su desarrollo continuo. Como plataforma de código abierto, ofrece una amplia gama de posibilidades, desde la creación de simples blogs hasta la gestión de sitios web empresariales complejos. Su enfoque en la usabilidad, soporte SEO integrado, amplia biblioteca de temas y plugins, y actualizaciones constantes lo convierten en una herramienta poderosa y escalable para usuarios de todos los niveles de experiencia.
 
